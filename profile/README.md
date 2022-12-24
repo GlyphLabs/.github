@@ -1,5 +1,5 @@
 # PurpLabs
-PurpLabs is a team that develops Discord Bots, those are: PurpBot(Not open source), PogBot, GroudonMusic.
+PurpLabs is a team that develops Discord Bots, those are: PurpBot, PogBot, and TrackMusic.
 # How are we better?
 We do not have our bots and applications behind pay-walls, unlike some popular bots with premium memberships.
 # History
